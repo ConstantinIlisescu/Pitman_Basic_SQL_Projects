@@ -1,0 +1,4 @@
+INSTANCE NAME - SQLEXPRESS - Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
+SQL ADMINISTRATORS - LAPTOP-FIKOUTPF\coste - C:\Program Files\Microsoft SQL Server\150\Setup Bootstrap\Log\20220325_170814
+FEATURES INSTALLED - SQLENGINE - C:\SQL2019\Express_ENU
+VERSION - 15.0.2000.5, RTM - C:\Program Files\Microsoft SQL Server\150\SSEI\Resources
